@@ -2,7 +2,7 @@ kunal sood# readme
 
 # Heading 1
 
-![Immage of red sox](C:\Users\ksood\Documents\readme\download.png)
+![Immage of red sox](download.png)
 
 [Website](https://www.nba.com/magic)
 
