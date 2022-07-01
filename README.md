@@ -4,3 +4,5 @@ kunal sood# readme
 
 ![Immage of red sox](C:\Users\ksood\Documents\readme\download.png)
 
+[Website](https://www.nba.com/magic)
+
