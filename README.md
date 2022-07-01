@@ -6,3 +6,4 @@ kunal sood# readme
 
 [Website](https://www.nba.com/magic)
 
+
